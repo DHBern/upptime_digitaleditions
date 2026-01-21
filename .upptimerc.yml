@@ -12,6 +12,7 @@ sites:
 status-website:
   baseUrl: /upptime_demo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  themeUrl: https://dhbern.github.io/upptime_demo/custom_theme.css
   name: DH Services Monitoring (Demo)
   introTitle: "**Upptime** instance for DHBern"
   navbar:
