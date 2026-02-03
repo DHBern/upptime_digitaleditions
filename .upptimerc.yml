@@ -22,6 +22,42 @@ sites:
     url: https://parzival.unibe.ch/
     expectedStatusCodes:
       - 200
+  - name: Arcipelago Ceresa
+    url: https://arcipelago-ceresa.digitaleditions.ch/
+    expectedStatusCodes:
+      - 404
+  - name: Annemarie Schwarzenbach. Digitale Edition der Kleinen Formen und Briefe
+    url: https://annemarie-schwarzenbach.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Annemarie Schwarzenbach DAV
+    url: https://dav.annemarie-schwarzenbach.ch/
+    expectedStatusCodes:
+      - 401
+  - name: hallerNet (data)
+    url: https://data.hallernet.org/
+    expectedStatusCodes:
+      - 401
+  - name: hallernet.org (Redirect to "République des Lettres")
+    url: https://hallernet.org/
+    expectedStatusCodes:
+      - 301
+      - 302
+      - 303
+  - name: md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
+    url: https://md.hallernet.org/
+    expectedStatusCodes:
+      - 301
+      - 302
+      - 303
+  - name: République des Lettres (CodiMD)
+    url: https://md.republique-des-lettres.ch/
+    expectedStatusCodes:
+      - 200
+  - name: République des Lettres - Daten- und Editionsplattform
+    url: https://republique-des-lettres.ch/
+    expectedStatusCodes:
+      - 200
 
 status-website:
   baseUrl: /upptime_digitaleditions
