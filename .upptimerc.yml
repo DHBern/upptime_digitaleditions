@@ -41,15 +41,11 @@ sites:
   - name: hallernet.org (Redirect to "République des Lettres")
     url: https://hallernet.org/
     expectedStatusCodes:
-      - 301
-      - 302
-      - 303
+      - 200
   - name: md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
     url: https://md.hallernet.org/
     expectedStatusCodes:
-      - 301
-      - 302
-      - 303
+      - 200
   - name: République des Lettres (CodiMD)
     url: https://md.republique-des-lettres.ch/
     expectedStatusCodes:
