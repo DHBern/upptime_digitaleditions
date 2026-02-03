@@ -4,10 +4,24 @@ repo: upptime_digitaleditions
 sites:
   - name: Digital Editions - University of Bern
     url: https://digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
   - name: Brandans Meerfahrt
     url: https://brandans-meerfahrt.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
   - name: Re-use of editions and text collections
     url: https://workshop.resed.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Gossembrot Bibliothek
+    url: https://gossembrot.unibe.ch/gossembrot-portal/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival-Projekt
+    url: https://parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
 
 status-website:
   baseUrl: /upptime_digitaleditions
