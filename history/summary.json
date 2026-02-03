@@ -150,19 +150,19 @@
     "url": "https://data.hallernet.org/",
     "icon": "https://icons.duckduckgo.com/ip3/data.hallernet.org.ico",
     "slug": "haller-net-data",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1082,
-    "timeDay": 1082,
-    "timeWeek": 1082,
-    "timeMonth": 1082,
-    "timeYear": 1082,
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
+    "time": 1208,
+    "timeDay": 1208,
+    "timeWeek": 1208,
+    "timeMonth": 1208,
+    "timeYear": 1208,
     "dailyMinutesDown": {
-      "2026-02-03": 0
+      "2026-02-03": 15
     }
   },
   {
