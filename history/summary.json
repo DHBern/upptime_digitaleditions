@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.hallernet.org.ico",
     "slug": "haller-net-data",
     "status": "up",
-    "uptime": "97.10%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "97.10%",
+    "uptime": "98.16%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
     "time": 1545,
     "timeDay": 1545,
     "timeWeek": 1545,
     "timeMonth": 1545,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2026-02-03": 22
+      "2026-02-03": 15
     }
   },
   {
@@ -171,19 +171,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallernet.org.ico",
     "slug": "hallernet-org-redirect-to-republique-des-lettres",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2700,
     "timeDay": 2700,
     "timeWeek": 2700,
     "timeMonth": 2700,
     "timeYear": 2700,
-    "dailyMinutesDown": {
-      "2026-02-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "md.hallernet.org (Redirect to \"République des Lettres (CodiMD)\")",
@@ -209,19 +207,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/md.republique-des-lettres.ch.ico",
     "slug": "republique-des-lettres-codi-md",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 294,
     "timeWeek": 294,
     "timeMonth": 294,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2026-02-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "République des Lettres - Daten- und Editionsplattform",
@@ -229,18 +225,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/republique-des-lettres.ch.ico",
     "slug": "republique-des-lettres-daten-und-editionsplattform",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 148,
     "timeWeek": 148,
     "timeMonth": 148,
     "timeYear": 148,
-    "dailyMinutesDown": {
-      "2026-02-03": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
