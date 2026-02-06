@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.hallernet.org.ico",
     "slug": "haller-net-data",
     "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.98%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 1473,
     "timeDay": 1411,
     "timeWeek": 1473,
     "timeMonth": 1473,
     "timeYear": 1473,
     "dailyMinutesDown": {
-      "2026-02-05": 34,
+      "2026-02-05": 23,
       "2026-02-03": 15
     }
   },
@@ -172,18 +172,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallernet.org.ico",
     "slug": "hallernet-org-redirect-to-republique-des-lettres",
     "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
+    "uptime": "99.40%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 2444,
     "timeDay": 2100,
     "timeWeek": 2444,
     "timeMonth": 2444,
     "timeYear": 2444,
     "dailyMinutesDown": {
-      "2026-02-05": 33
+      "2026-02-05": 22
     }
   },
   {
@@ -210,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/md.republique-des-lettres.ch.ico",
     "slug": "republique-des-lettres-codi-md",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.43%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 253,
     "timeDay": 249,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2026-02-05": 31
+      "2026-02-05": 21
     }
   },
   {
@@ -230,18 +230,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/republique-des-lettres.ch.ico",
     "slug": "republique-des-lettres-daten-und-editionsplattform",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.44%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 144,
     "timeDay": 146,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-02-05": 30
+      "2026-02-05": 21
     }
   }
 ]
