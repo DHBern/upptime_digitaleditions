@@ -26,6 +26,10 @@ sites:
     url: https://arcipelago-ceresa.digitaleditions.ch/
     expectedStatusCodes:
       - 404
+  - name: Arcipelago Ceresa IIIF presentation API
+    url: https://iiif.arcipelago-ceresa.digitaleditions.ch/presentation/
+    expectedStatusCodes:
+      - 200
   - name: Annemarie Schwarzenbach. Digitale Edition der Kleinen Formen und Briefe
     url: https://annemarie-schwarzenbach.ch/
     expectedStatusCodes:
