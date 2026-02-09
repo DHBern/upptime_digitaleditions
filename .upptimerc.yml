@@ -60,10 +60,10 @@ sites:
       - 200
 
 status-website:
-  baseUrl: /upptime_digitaleditions
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  themeUrl: https://dhbern.github.io/upptime_digitaleditions/custom_theme.css
+  themeUrl: https://status.digitaleditions.ch/custom_theme.css
   name: DH Services Monitoring (Demo)
+  cname: status.digitaleditions.ch
   introTitle: "**Upptime** instance for DHBern"
   navbar:
     - title: Status
