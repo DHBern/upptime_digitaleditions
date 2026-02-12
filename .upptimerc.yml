@@ -22,6 +22,10 @@ sites:
     url: https://parzival.unibe.ch/
     expectedStatusCodes:
       - 200
+  - name: Parzival API
+    url: https://data.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
   - name: Arcipelago Ceresa
     url: https://arcipelago-ceresa.digitaleditions.ch/
     expectedStatusCodes:
