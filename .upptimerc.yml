@@ -25,7 +25,7 @@ sites:
   - name: Arcipelago Ceresa
     url: https://arcipelago-ceresa.digitaleditions.ch/
     expectedStatusCodes:
-      - 404
+      - 200
   - name: Arcipelago Ceresa IIIF presentation API
     url: https://iiif.arcipelago-ceresa.digitaleditions.ch/presentation/
     expectedStatusCodes:
