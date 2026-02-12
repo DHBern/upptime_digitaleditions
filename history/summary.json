@@ -98,8 +98,8 @@
     "slug": "arcipelago-ceresa",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
@@ -108,7 +108,7 @@
     "timeMonth": 384,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2026-02-12": 0
+      "2026-02-12": 1
     }
   },
   {
@@ -270,11 +270,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/republique-des-lettres.ch.ico",
     "slug": "republique-des-lettres-daten-und-editionsplattform",
     "status": "up",
-    "uptime": "96.04%",
+    "uptime": "96.05%",
     "uptimeDay": "96.98%",
     "uptimeWeek": "95.02%",
-    "uptimeMonth": "96.04%",
-    "uptimeYear": "96.04%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "96.05%",
     "time": 135,
     "timeDay": 141,
     "timeWeek": 134,
