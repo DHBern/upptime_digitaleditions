@@ -22,6 +22,10 @@ sites:
     url: https://wellcome-schreiber.digitaleditions.ch/
     expectedStatusCodes:
       - 200
+  - name: Wellcome Schreiber
+    url: https://wellcome-schreiber.unibe.ch/
+    expectedStatusCodes:
+      - 200
   - name: Parzival-Projekt
     url: https://parzival.unibe.ch/
     expectedStatusCodes:
