@@ -18,6 +18,10 @@ sites:
     url: https://gossembrot.unibe.ch/gossembrot-portal/
     expectedStatusCodes:
       - 200
+  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
+    url: https://wellcome-schreiber.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
   - name: Parzival-Projekt
     url: https://parzival.unibe.ch/
     expectedStatusCodes:
