@@ -64,13 +64,24 @@ sites:
       - 200
 
 status-website:
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.unibe.ch/media/media_global/logo_unibe_3z_120.svg
   themeUrl: https://status.digitaleditions.ch/custom_theme.css
-  name: DH Services Monitoring (Demo)
+  name: DH Services Monitoring
   cname: status.digitaleditions.ch
-  introTitle: "**Upptime** instance for DHBern"
+  introTitle: "Service Status Dashboard"
+  introMessage: |
+    This dashboard monitors the availability and performance of digital humanities services at the University of Bern.
+    
+    **Monitored Services:**
+    - Digital edition platforms and APIs
+    - Research project websites
+    - Data visualization and collaboration tools
+    
+    For support or to report issues, please contact the Digital Humanities team.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: DHBern
+      href: https://www.dh.unibe.ch/
