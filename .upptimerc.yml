@@ -26,8 +26,12 @@ sites:
     url: https://wellcome-schreiber.unibe.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival-Projekt
+  - name: Parzival
     url: https://parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival (Redirect to parzival.unibe.ch)
+    url: https://parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
   - name: Parzival API
