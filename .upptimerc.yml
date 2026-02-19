@@ -2,28 +2,8 @@ owner: DHBern
 repo: upptime_digitaleditions
 
 sites:
-  - name: Digital Editions - University of Bern
-    url: https://digitaleditions.ch/
-    expectedStatusCodes:
-      - 200
-  - name: Brandans Meerfahrt
-    url: https://brandans-meerfahrt.digitaleditions.ch/
-    expectedStatusCodes:
-      - 200
-  - name: Re-use of editions and text collections
-    url: https://workshop.resed.digitaleditions.ch/
-    expectedStatusCodes:
-      - 200
   - name: Gossembrot Bibliothek
     url: https://gossembrot.unibe.ch/gossembrot-portal/
-    expectedStatusCodes:
-      - 200
-  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
-    url: https://wellcome-schreiber.digitaleditions.ch/
-    expectedStatusCodes:
-      - 200
-  - name: Wellcome Schreiber
-    url: https://wellcome-schreiber.unibe.ch/
     expectedStatusCodes:
       - 200
   - name: Parzival
@@ -36,6 +16,26 @@ sites:
       - 200
   - name: Parzival API
     url: https://data.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Digital Editions - University of Bern
+    url: https://digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Brandans Meerfahrt
+    url: https://brandans-meerfahrt.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Re-use of editions and text collections
+    url: https://workshop.resed.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
+    url: https://wellcome-schreiber.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Wellcome Schreiber
+    url: https://wellcome-schreiber.unibe.ch/
     expectedStatusCodes:
       - 200
   - name: Arcipelago Ceresa
