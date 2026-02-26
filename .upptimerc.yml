@@ -54,7 +54,7 @@ sites:
     url: https://www.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival (Redirect to parzival.unibe.ch)
+  - name: Parzival (Redirect to parzival.digitaleditions.ch)
     url: https://www.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -82,7 +82,7 @@ sites:
     url: https://www.rappoltstein.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival – Rappoltstein (Redirect to rappoltstein.parzival.unibe.ch)
+  - name: Parzival – Rappoltstein (Redirect to rappoltstein.parzival.digitaleditions.ch)
     url: https://www.rappoltstein.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -98,7 +98,7 @@ sites:
     url: https://www.cgm19.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival – Cgm 19 (Redirect to cgm19.parzival.unibe.ch)
+  - name: Parzival – Cgm 19 (Redirect to cgm19.parzival.digitaleditions.ch)
     url: https://www.cgm19.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -114,7 +114,7 @@ sites:
     url: https://www.codaa91.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival – Cod AA91 (Redirect to codaa91.parzival.unibe.ch)
+  - name: Parzival – Cod AA91 (Redirect to codaa91.parzival.digitaleditions.ch)
     url: https://www.codaa91.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -130,7 +130,7 @@ sites:
     url: https://www.cod857.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival – Cod 857 (Redirect to cod857.parzival.unibe.ch)
+  - name: Parzival – Cod 857 (Redirect to cod857.parzival.digitaleditions.ch)
     url: https://www.cod857.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -146,7 +146,7 @@ sites:
     url: https://www.schwerin.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival – Schwerin (Redirect to schwerin.parzival.unibe.ch)
+  - name: Parzival – Schwerin (Redirect to schwerin.parzival.digitaleditions.ch)
     url: https://www.schwerin.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -162,7 +162,7 @@ sites:
     url: https://www.skriptoriumzh.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Parzival – Zürcher Skriptorium (Redirect to skriptoriumzh.parzival.unibe.ch)
+  - name: Parzival – Zürcher Skriptorium (Redirect to skriptoriumzh.parzival.digitaleditions.ch)
     url: https://www.skriptoriumzh.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -202,7 +202,7 @@ sites:
     url: https://www.wellcome-schreiber.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
+  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.digitaleditions.ch)
     url: https://www.wellcome-schreiber.unibe.ch/
     expectedStatusCodes:
       - 200
@@ -228,4 +228,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: DHBern
-      href: https://www.dh.unibe.ch/
+      href: https://dh.unibe.ch/
