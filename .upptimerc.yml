@@ -9,15 +9,15 @@ sites:
   - name: Gossembrot Bibliothek (Redirect to gossembrot.unibe.ch)
     url: https://gossembrot.digitaleditions.ch/
     expectedStatusCodes:
-      - 301
+      - 200
   - name: Gossembrot Bibliothek (Redirect to gossembrot.unibe.ch)
     url: https://www.gossembrot.digitaleditions.ch/
     expectedStatusCodes:
-      - 301
+      - 200
   - name: Gossembrot Bibliothek (Redirect to gossembrot.digitaleditions.ch)
     url: https://www.gossembrot.unibe.ch/
     expectedStatusCodes:
-      - 301
+      - 200
   - name: Parzival
     url: https://parzival.unibe.ch/
     expectedStatusCodes:
