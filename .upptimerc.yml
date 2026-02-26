@@ -22,7 +22,7 @@ sites:
     url: https://brandans-meerfahrt.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Digital Editions - University of Bern
+  - name: Digital Editions – University of Bern
     url: https://digitaleditions.ch/
     expectedStatusCodes:
       - 200
@@ -62,27 +62,27 @@ sites:
     url: https://data.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: RdL: hallerNet (data)
+  - name: RdL – hallerNet (data)
     url: https://data.hallernet.org/
     expectedStatusCodes:
       - 401
-  - name: RdL: hallernet.org (Redirect to "République des Lettres")
+  - name: RdL – hallernet.org (Redirect to "République des Lettres")
     url: https://hallernet.org/
     expectedStatusCodes:
       - 200
-  - name: RdL: md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
+  - name: RdL – md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
     url: https://md.hallernet.org/
     expectedStatusCodes:
       - 200
-  - name: RdL: République des Lettres (CodiMD)
+  - name: RdL – République des Lettres (CodiMD)
     url: https://md.republique-des-lettres.ch/
     expectedStatusCodes:
       - 200
-  - name: RdL: République des Lettres - Daten- und Editionsplattform
+  - name: RdL – République des Lettres - Daten- und Editionsplattform
     url: https://republique-des-lettres.ch/
     expectedStatusCodes:
       - 200
-  - name: ReSED: Re-use of editions and text collections
+  - name: ReSED – Re-use of editions and text collections
     url: https://workshop.resed.digitaleditions.ch/
     expectedStatusCodes:
       - 200
