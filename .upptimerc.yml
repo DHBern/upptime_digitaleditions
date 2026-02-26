@@ -177,13 +177,13 @@ sites:
     type: globalping
     location: europe
     expectedStatusCodes:
-      - 200
+      - 301
   - name: RdL – md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
     url: https://md.hallernet.org/
     type: globalping
     location: europe
     expectedStatusCodes:
-      - 200
+      - 301
   - name: RdL – République des Lettres (CodiMD)
     url: https://md.republique-des-lettres.ch/
     type: globalping
