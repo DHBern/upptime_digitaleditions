@@ -168,22 +168,32 @@ sites:
       - 200
   - name: RdL – hallerNet (data)
     url: https://data.hallernet.org/
+    type: globalping
+    location: europe
     expectedStatusCodes:
       - 401
   - name: RdL – hallernet.org (Redirect to "République des Lettres")
     url: https://hallernet.org/
+    type: globalping
+    location: europe
     expectedStatusCodes:
       - 200
   - name: RdL – md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
     url: https://md.hallernet.org/
+    type: globalping
+    location: europe
     expectedStatusCodes:
       - 200
   - name: RdL – République des Lettres (CodiMD)
     url: https://md.republique-des-lettres.ch/
+    type: globalping
+    location: europe
     expectedStatusCodes:
       - 200
   - name: RdL – République des Lettres - Daten- und Editionsplattform
     url: https://republique-des-lettres.ch/
+    type: globalping
+    location: europe
     expectedStatusCodes:
       - 200
   - name: ReSED – Re-use of editions and text collections
