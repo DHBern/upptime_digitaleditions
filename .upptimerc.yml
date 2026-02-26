@@ -58,8 +58,112 @@ sites:
     url: https://www.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
+  - name: Parzival legacy
+    url: https://parzdb.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival legacy (Redirect to parzdb.parzival.unibe.ch)
+    url: https://www.parzdb.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
   - name: Parzival API
     url: https://data.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Rappoltstein
+    url: https://rappoltstein.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Rappoltstein (Redirect to rappoltstein.parzival.unibe.ch)
+    url: https://rappoltstein.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Rappoltstein (Redirect to rappoltstein.parzival.unibe.ch)
+    url: https://www.rappoltstein.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Rappoltstein (Redirect to rappoltstein.parzival.unibe.ch)
+    url: https://www.rappoltstein.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cgm 19
+    url: https://cgm19.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cgm 19 (Redirect to cgm19.parzival.unibe.ch)
+    url: https://cgm19.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cgm 19 (Redirect to cgm19.parzival.unibe.ch)
+    url: https://www.cgm19.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cgm 19 (Redirect to cgm19.parzival.unibe.ch)
+    url: https://www.cgm19.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod AA91
+    url: https://codaa91.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod AA91 (Redirect to codaa91.parzival.unibe.ch)
+    url: https://codaa91.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod AA91 (Redirect to codaa91.parzival.unibe.ch)
+    url: https://www.codaa91.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod AA91 (Redirect to codaa91.parzival.unibe.ch)
+    url: https://www.codaa91.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod 857
+    url: https://cod857.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod 857 (Redirect to cod857.parzival.unibe.ch)
+    url: https://cod857.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod 857 (Redirect to cod857.parzival.unibe.ch)
+    url: https://www.cod857.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Cod 857 (Redirect to cod857.parzival.unibe.ch)
+    url: https://www.cod857.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Schwerin
+    url: https://schwerin.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Schwerin (Redirect to schwerin.parzival.unibe.ch)
+    url: https://schwerin.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Schwerin (Redirect to schwerin.parzival.unibe.ch)
+    url: https://www.schwerin.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Schwerin (Redirect to schwerin.parzival.unibe.ch)
+    url: https://www.schwerin.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Zürcher Skriptorium
+    url: https://skriptoriumzh.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Zürcher Skriptorium (Redirect to skriptoriumzh.parzival.unibe.ch)
+    url: https://skriptoriumzh.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Zürcher Skriptorium (Redirect to skriptoriumzh.parzival.unibe.ch)
+    url: https://www.skriptoriumzh.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival – Zürcher Skriptorium (Redirect to skriptoriumzh.parzival.unibe.ch)
+    url: https://www.skriptoriumzh.parzival.unibe.ch/
     expectedStatusCodes:
       - 200
   - name: RdL – hallerNet (data)
