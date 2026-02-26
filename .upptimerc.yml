@@ -2,6 +2,30 @@ owner: DHBern
 repo: upptime_digitaleditions
 
 sites:
+  - name: Annemarie Schwarzenbach. Digitale Edition der Kleinen Formen und Briefe
+    url: https://annemarie-schwarzenbach.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Annemarie Schwarzenbach DAV
+    url: https://dav.annemarie-schwarzenbach.ch/
+    expectedStatusCodes:
+      - 401
+  - name: Arcipelago Ceresa
+    url: https://arcipelago-ceresa.digitaleditions.ch/
+    expectedStatusCodes:
+      - 404
+  - name: Arcipelago Ceresa IIIF presentation API
+    url: https://iiif.arcipelago-ceresa.digitaleditions.ch/presentation/
+    expectedStatusCodes:
+      - 200
+  - name: Brandans Meerfahrt
+    url: https://brandans-meerfahrt.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Digital Editions - University of Bern
+    url: https://digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
   - name: Gossembrot Bibliothek
     url: https://gossembrot.unibe.ch/
     expectedStatusCodes:
@@ -17,7 +41,7 @@ sites:
   - name: Gossembrot Bibliothek (Redirect to gossembrot.digitaleditions.ch)
     url: https://www.gossembrot.unibe.ch/
     expectedStatusCodes:
-      - 200
+      - 200      
   - name: Parzival
     url: https://parzival.unibe.ch/
     expectedStatusCodes:
@@ -26,64 +50,56 @@ sites:
     url: https://parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
+  - name: Parzival (Redirect to parzival.unibe.ch)
+    url: https://www.parzival.digitaleditions.ch/
+    expectedStatusCodes:
+      - 200
+  - name: Parzival (Redirect to parzival.unibe.ch)
+    url: https://www.parzival.unibe.ch/
+    expectedStatusCodes:
+      - 200
   - name: Parzival API
     url: https://data.parzival.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Digital Editions - University of Bern
-    url: https://digitaleditions.ch/
+  - name: RdL: hallerNet (data)
+    url: https://data.hallernet.org/
+    expectedStatusCodes:
+      - 401
+  - name: RdL: hallernet.org (Redirect to "République des Lettres")
+    url: https://hallernet.org/
     expectedStatusCodes:
       - 200
-  - name: Brandans Meerfahrt
-    url: https://brandans-meerfahrt.digitaleditions.ch/
+  - name: RdL: md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
+    url: https://md.hallernet.org/
     expectedStatusCodes:
       - 200
-  - name: Re-use of editions and text collections
+  - name: RdL: République des Lettres (CodiMD)
+    url: https://md.republique-des-lettres.ch/
+    expectedStatusCodes:
+      - 200
+  - name: RdL: République des Lettres - Daten- und Editionsplattform
+    url: https://republique-des-lettres.ch/
+    expectedStatusCodes:
+      - 200
+  - name: ReSED: Re-use of editions and text collections
     url: https://workshop.resed.digitaleditions.ch/
-    expectedStatusCodes:
-      - 200
-  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
-    url: https://wellcome-schreiber.digitaleditions.ch/
     expectedStatusCodes:
       - 200
   - name: Wellcome Schreiber
     url: https://wellcome-schreiber.unibe.ch/
     expectedStatusCodes:
       - 200
-  - name: Arcipelago Ceresa
-    url: https://arcipelago-ceresa.digitaleditions.ch/
-    expectedStatusCodes:
-      - 404
-  - name: Arcipelago Ceresa IIIF presentation API
-    url: https://iiif.arcipelago-ceresa.digitaleditions.ch/presentation/
+  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
+    url: https://wellcome-schreiber.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Annemarie Schwarzenbach. Digitale Edition der Kleinen Formen und Briefe
-    url: https://annemarie-schwarzenbach.ch/
+  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
+    url: https://www.wellcome-schreiber.digitaleditions.ch/
     expectedStatusCodes:
       - 200
-  - name: Annemarie Schwarzenbach DAV
-    url: https://dav.annemarie-schwarzenbach.ch/
-    expectedStatusCodes:
-      - 401
-  - name: hallerNet (data)
-    url: https://data.hallernet.org/
-    expectedStatusCodes:
-      - 401
-  - name: hallernet.org (Redirect to "République des Lettres")
-    url: https://hallernet.org/
-    expectedStatusCodes:
-      - 200
-  - name: md.hallernet.org (Redirect to "République des Lettres (CodiMD)")
-    url: https://md.hallernet.org/
-    expectedStatusCodes:
-      - 200
-  - name: République des Lettres (CodiMD)
-    url: https://md.republique-des-lettres.ch/
-    expectedStatusCodes:
-      - 200
-  - name: République des Lettres - Daten- und Editionsplattform
-    url: https://republique-des-lettres.ch/
+  - name: Wellcome Schreiber (Redirect to wellcome-schreiber.unibe.ch)
+    url: https://www.wellcome-schreiber.unibe.ch/
     expectedStatusCodes:
       - 200
 
