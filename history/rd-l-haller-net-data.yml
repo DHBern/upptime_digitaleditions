@@ -1,7 +1,7 @@
 url: https://data.hallernet.org/
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-03-15T07:30:52.297Z
+status: up
+code: 401
+responseTime: 88
+lastUpdated: 2026-03-15T07:51:58.553Z
 startTime: 2026-02-26T08:03:58.185Z
 generator: Upptime <https://github.com/upptime/upptime>
