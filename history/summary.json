@@ -13,7 +13,7 @@
     "time": 417,
     "timeDay": 609,
     "timeWeek": 454,
-    "timeMonth": 426,
+    "timeMonth": 427,
     "timeYear": 417,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 706,
     "timeDay": 582,
     "timeWeek": 701,
-    "timeMonth": 744,
+    "timeMonth": 737,
     "timeYear": 706,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 379,
     "timeDay": 398,
     "timeWeek": 462,
-    "timeMonth": 427,
+    "timeMonth": 425,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2026-02-12": 22,
@@ -70,7 +70,7 @@
     "time": 417,
     "timeDay": 472,
     "timeWeek": 800,
-    "timeMonth": 570,
+    "timeMonth": 576,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2026-03-24": 34
@@ -90,7 +90,7 @@
     "time": 371,
     "timeDay": 313,
     "timeWeek": 450,
-    "timeMonth": 413,
+    "timeMonth": 404,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2026-03-12": 23
@@ -110,7 +110,7 @@
     "time": 355,
     "timeDay": 405,
     "timeWeek": 435,
-    "timeMonth": 374,
+    "timeMonth": 372,
     "timeYear": 355,
     "dailyMinutesDown": {}
   },
@@ -120,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gossembrot.unibe.ch.ico",
     "slug": "gossembrot-bibliothek",
     "status": "up",
-    "uptime": "95.98%",
+    "uptime": "95.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.98%",
+    "uptimeYear": "95.99%",
     "time": 411,
     "timeDay": 360,
     "timeWeek": 286,
-    "timeMonth": 313,
+    "timeMonth": 314,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2026-02-26": 458,
@@ -193,7 +193,7 @@
     "time": 1349,
     "timeDay": 1171,
     "timeWeek": 1917,
-    "timeMonth": 1705,
+    "timeMonth": 1701,
     "timeYear": 1349,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 324,
     "timeDay": 391,
     "timeWeek": 316,
-    "timeMonth": 337,
+    "timeMonth": 328,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2026-02-18": 267,
@@ -232,7 +232,7 @@
     "time": 651,
     "timeDay": 477,
     "timeWeek": 642,
-    "timeMonth": 695,
+    "timeMonth": 691,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2026-02-18": 267,
@@ -260,7 +260,7 @@
     "time": 651,
     "timeDay": 477,
     "timeWeek": 642,
-    "timeMonth": 695,
+    "timeMonth": 691,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2026-02-18": 267,
@@ -288,7 +288,7 @@
     "time": 1345,
     "timeDay": 1422,
     "timeWeek": 1782,
-    "timeMonth": 1656,
+    "timeMonth": 1657,
     "timeYear": 1345,
     "dailyMinutesDown": {
       "2026-03-06": 18,
@@ -306,21 +306,22 @@
     "url": "https://parzdb.parzival.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/parzdb.parzival.unibe.ch.ico",
     "slug": "parzival-legacy",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.75%",
     "time": 857,
     "timeDay": 727,
     "timeWeek": 942,
-    "timeMonth": 909,
+    "timeMonth": 906,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2026-03-14": 599,
       "2026-06-28": 27,
-      "2026-07-25": 51
+      "2026-07-25": 51,
+      "2026-09-07": 6
     }
   },
   {
@@ -328,7 +329,7 @@
     "url": "https://www.parzdb.parzival.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parzdb.parzival.unibe.ch.ico",
     "slug": "parzival-legacy-redirect-to-parzdb-parzival-unibe-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +338,7 @@
     "time": 894,
     "timeDay": 621,
     "timeWeek": 802,
-    "timeMonth": 856,
+    "timeMonth": 861,
     "timeYear": 894,
     "dailyMinutesDown": {}
   },
@@ -355,7 +356,7 @@
     "time": 307,
     "timeDay": 212,
     "timeWeek": 266,
-    "timeMonth": 315,
+    "timeMonth": 314,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -373,7 +374,7 @@
     "time": 361,
     "timeDay": 154,
     "timeWeek": 337,
-    "timeMonth": 316,
+    "timeMonth": 318,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2026-07-18": 24
@@ -429,7 +430,7 @@
     "time": 1292,
     "timeDay": 1043,
     "timeWeek": 1892,
-    "timeMonth": 1671,
+    "timeMonth": 1677,
     "timeYear": 1292,
     "dailyMinutesDown": {}
   },
@@ -465,7 +466,7 @@
     "time": 622,
     "timeDay": 476,
     "timeWeek": 574,
-    "timeMonth": 623,
+    "timeMonth": 620,
     "timeYear": 622,
     "dailyMinutesDown": {}
   },
@@ -483,7 +484,7 @@
     "time": 622,
     "timeDay": 476,
     "timeWeek": 574,
-    "timeMonth": 623,
+    "timeMonth": 620,
     "timeYear": 622,
     "dailyMinutesDown": {}
   },
@@ -501,7 +502,7 @@
     "time": 1229,
     "timeDay": 1058,
     "timeWeek": 1441,
-    "timeMonth": 1434,
+    "timeMonth": 1424,
     "timeYear": 1229,
     "dailyMinutesDown": {}
   },
@@ -519,7 +520,7 @@
     "time": 260,
     "timeDay": 274,
     "timeWeek": 267,
-    "timeMonth": 268,
+    "timeMonth": 269,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -537,7 +538,7 @@
     "time": 588,
     "timeDay": 467,
     "timeWeek": 576,
-    "timeMonth": 620,
+    "timeMonth": 619,
     "timeYear": 588,
     "dailyMinutesDown": {}
   },
@@ -555,7 +556,7 @@
     "time": 588,
     "timeDay": 467,
     "timeWeek": 576,
-    "timeMonth": 620,
+    "timeMonth": 619,
     "timeYear": 588,
     "dailyMinutesDown": {}
   },
@@ -573,7 +574,7 @@
     "time": 1239,
     "timeDay": 1212,
     "timeWeek": 1527,
-    "timeMonth": 1468,
+    "timeMonth": 1460,
     "timeYear": 1239,
     "dailyMinutesDown": {}
   },
@@ -591,7 +592,7 @@
     "time": 245,
     "timeDay": 172,
     "timeWeek": 215,
-    "timeMonth": 252,
+    "timeMonth": 247,
     "timeYear": 245,
     "dailyMinutesDown": {}
   },
@@ -609,7 +610,7 @@
     "time": 589,
     "timeDay": 494,
     "timeWeek": 583,
-    "timeMonth": 613,
+    "timeMonth": 611,
     "timeYear": 589,
     "dailyMinutesDown": {}
   },
@@ -627,7 +628,7 @@
     "time": 589,
     "timeDay": 494,
     "timeWeek": 583,
-    "timeMonth": 613,
+    "timeMonth": 611,
     "timeYear": 589,
     "dailyMinutesDown": {}
   },
@@ -645,7 +646,7 @@
     "time": 1203,
     "timeDay": 1032,
     "timeWeek": 1392,
-    "timeMonth": 1404,
+    "timeMonth": 1402,
     "timeYear": 1203,
     "dailyMinutesDown": {}
   },
@@ -663,7 +664,7 @@
     "time": 257,
     "timeDay": 180,
     "timeWeek": 226,
-    "timeMonth": 242,
+    "timeMonth": 243,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -717,7 +718,7 @@
     "time": 1202,
     "timeDay": 1143,
     "timeWeek": 1240,
-    "timeMonth": 1362,
+    "timeMonth": 1355,
     "timeYear": 1202,
     "dailyMinutesDown": {}
   },
@@ -735,7 +736,7 @@
     "time": 270,
     "timeDay": 167,
     "timeWeek": 233,
-    "timeMonth": 253,
+    "timeMonth": 252,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -753,7 +754,7 @@
     "time": 580,
     "timeDay": 479,
     "timeWeek": 579,
-    "timeMonth": 615,
+    "timeMonth": 614,
     "timeYear": 580,
     "dailyMinutesDown": {}
   },
@@ -771,7 +772,7 @@
     "time": 580,
     "timeDay": 479,
     "timeWeek": 579,
-    "timeMonth": 615,
+    "timeMonth": 614,
     "timeYear": 580,
     "dailyMinutesDown": {}
   },
@@ -789,7 +790,7 @@
     "time": 1198,
     "timeDay": 1153,
     "timeWeek": 1335,
-    "timeMonth": 1421,
+    "timeMonth": 1410,
     "timeYear": 1198,
     "dailyMinutesDown": {}
   },
@@ -807,7 +808,7 @@
     "time": 748,
     "timeDay": 175,
     "timeWeek": 819,
-    "timeMonth": 746,
+    "timeMonth": 734,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2026-02-26": 34,
@@ -855,7 +856,7 @@
     "time": 174,
     "timeDay": 509,
     "timeWeek": 281,
-    "timeMonth": 207,
+    "timeMonth": 211,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -873,7 +874,7 @@
     "time": 235,
     "timeDay": 321,
     "timeWeek": 256,
-    "timeMonth": 134,
+    "timeMonth": 137,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -883,15 +884,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/md.republique-des-lettres.ch.ico",
     "slug": "rd-l-republique-des-lettres-codi-md",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 168,
     "timeDay": 89,
     "timeWeek": 184,
-    "timeMonth": 151,
+    "timeMonth": 153,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2026-02-26": 33,
@@ -938,7 +939,7 @@
     "time": 228,
     "timeDay": 59,
     "timeWeek": 88,
-    "timeMonth": 466,
+    "timeMonth": 479,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -974,7 +975,7 @@
     "time": 240,
     "timeDay": 163,
     "timeWeek": 309,
-    "timeMonth": 267,
+    "timeMonth": 266,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2026-02-18": 61
@@ -994,7 +995,7 @@
     "time": 629,
     "timeDay": 472,
     "timeWeek": 545,
-    "timeMonth": 594,
+    "timeMonth": 591,
     "timeYear": 629,
     "dailyMinutesDown": {}
   },
@@ -1012,7 +1013,7 @@
     "time": 629,
     "timeDay": 472,
     "timeWeek": 545,
-    "timeMonth": 594,
+    "timeMonth": 591,
     "timeYear": 629,
     "dailyMinutesDown": {}
   },
@@ -1030,7 +1031,7 @@
     "time": 1211,
     "timeDay": 1052,
     "timeWeek": 1232,
-    "timeMonth": 1357,
+    "timeMonth": 1340,
     "timeYear": 1211,
     "dailyMinutesDown": {}
   }
