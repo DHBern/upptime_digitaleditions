@@ -279,17 +279,17 @@
     "url": "https://www.parzival.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parzival.unibe.ch.ico",
     "slug": "parzival-redirect-to-parzival-digitaleditions-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.84%",
-    "time": 1352,
-    "timeDay": 2022,
-    "timeWeek": 1548,
-    "timeMonth": 1672,
-    "timeYear": 1352,
+    "time": 1355,
+    "timeDay": 1898,
+    "timeWeek": 1577,
+    "timeMonth": 1675,
+    "timeYear": 1355,
     "dailyMinutesDown": {
       "2026-03-06": 18,
       "2026-03-07": 25,
@@ -299,7 +299,7 @@
       "2026-06-08": 94,
       "2026-06-11": 84,
       "2026-06-13": 104,
-      "2026-09-12": 1
+      "2026-09-12": 10
     }
   },
   {
