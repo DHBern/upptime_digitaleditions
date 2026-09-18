@@ -196,6 +196,12 @@ sites:
     location: europe
     expectedStatusCodes:
       - 200
+  - name: RdL – République des Lettres - Solr
+    url: https://hallernet-search.hidora.com/solr/public/select?q=*:*&facet=on&facet.field=type&rows=0&wt=json
+    type: globalping
+    location: europe
+    expectedStatusCodes:
+      - 200      
   - name: ReSED – Re-use of editions and text collections
     url: https://workshop.resed.digitaleditions.ch/
     expectedStatusCodes:
