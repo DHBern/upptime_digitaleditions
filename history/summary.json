@@ -883,10 +883,10 @@
     "url": "https://md.republique-des-lettres.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/md.republique-des-lettres.ch.ico",
     "slug": "rd-l-republique-des-lettres-codi-md",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 169,
@@ -922,7 +922,8 @@
       "2026-05-03": 25,
       "2026-05-12": 48,
       "2026-05-16": 33,
-      "2026-05-20": 77
+      "2026-05-20": 77,
+      "2026-09-19": 1
     }
   },
   {
