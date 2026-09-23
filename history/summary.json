@@ -4,7 +4,7 @@
     "url": "https://annemarie-schwarzenbach.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/annemarie-schwarzenbach.ch.ico",
     "slug": "annemarie-schwarzenbach-digitale-edition-der-kleinen-formen-und-briefe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -393,7 +393,7 @@
     "uptimeYear": "100.00%",
     "time": 655,
     "timeDay": 665,
-    "timeWeek": 885,
+    "timeWeek": 644,
     "timeMonth": 723,
     "timeYear": 655,
     "dailyMinutesDown": {}
@@ -411,7 +411,7 @@
     "uptimeYear": "100.00%",
     "time": 655,
     "timeDay": 665,
-    "timeWeek": 885,
+    "timeWeek": 644,
     "timeMonth": 723,
     "timeYear": 655,
     "dailyMinutesDown": {}
@@ -938,7 +938,7 @@
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 227,
-    "timeWeek": 408,
+    "timeWeek": 226,
     "timeMonth": 531,
     "timeYear": 232,
     "dailyMinutesDown": {}
