@@ -306,10 +306,10 @@
     "url": "https://parzdb.parzival.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/parzdb.parzival.unibe.ch.ico",
     "slug": "parzival-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.77%",
     "time": 860,
@@ -321,7 +321,8 @@
       "2026-03-14": 599,
       "2026-06-28": 27,
       "2026-07-25": 51,
-      "2026-09-07": 26
+      "2026-09-07": 26,
+      "2026-10-01": 1
     }
   },
   {
@@ -329,7 +330,7 @@
     "url": "https://www.parzdb.parzival.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parzdb.parzival.unibe.ch.ico",
     "slug": "parzival-legacy-redirect-to-parzdb-parzival-unibe-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
