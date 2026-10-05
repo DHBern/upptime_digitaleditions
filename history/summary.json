@@ -223,17 +223,17 @@
     "url": "https://parzival.digitaleditions.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/parzival.digitaleditions.ch.ico",
     "slug": "parzival-redirect-to-parzival-unibe-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.29%",
-    "time": 659,
-    "timeDay": 745,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 659,
+    "time": 660,
+    "timeDay": 792,
+    "timeWeek": 714,
+    "timeMonth": 705,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2026-02-18": 267,
       "2026-03-06": 18,
@@ -244,7 +244,7 @@
       "2026-05-04": 128,
       "2026-06-11": 94,
       "2026-06-13": 132,
-      "2026-10-05": 1
+      "2026-10-05": 19
     }
   },
   {
@@ -252,17 +252,17 @@
     "url": "https://www.parzival.digitaleditions.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parzival.digitaleditions.ch.ico",
     "slug": "parzival-redirect-to-parzival-unibe-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.29%",
-    "time": 659,
-    "timeDay": 745,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 659,
+    "time": 660,
+    "timeDay": 792,
+    "timeWeek": 714,
+    "timeMonth": 705,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2026-02-18": 267,
       "2026-03-06": 18,
@@ -273,7 +273,7 @@
       "2026-05-04": 128,
       "2026-06-11": 94,
       "2026-06-13": 132,
-      "2026-10-05": 1
+      "2026-10-05": 19
     }
   },
   {
