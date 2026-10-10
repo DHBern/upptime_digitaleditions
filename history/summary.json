@@ -951,19 +951,19 @@
     "url": "https://hallernet-search.hidora.com/solr/public/select?q=*:*&facet=on&facet.field=type&rows=0&wt=json",
     "icon": "https://icons.duckduckgo.com/ip3/hallernet-search.hidora.com.ico",
     "slug": "rd-l-republique-des-lettres-solr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 169,
-    "timeWeek": 291,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 219,
+    "timeDay": 225,
+    "timeWeek": 296,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-10-10": 1
+      "2026-10-10": 22
     }
   },
   {
