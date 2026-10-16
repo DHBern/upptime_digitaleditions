@@ -13,7 +13,7 @@
     "time": 490,
     "timeDay": 338,
     "timeWeek": 468,
-    "timeMonth": 827,
+    "timeMonth": 833,
     "timeYear": 490,
     "dailyMinutesDown": {}
   },
@@ -120,11 +120,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gossembrot.unibe.ch.ico",
     "slug": "gossembrot-bibliothek",
     "status": "up",
-    "uptime": "96.60%",
+    "uptime": "96.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.60%",
+    "uptimeYear": "96.61%",
     "time": 403,
     "timeDay": 266,
     "timeWeek": 373,
@@ -397,7 +397,7 @@
     "time": 655,
     "timeDay": 722,
     "timeWeek": 722,
-    "timeMonth": 718,
+    "timeMonth": 653,
     "timeYear": 655,
     "dailyMinutesDown": {}
   },
@@ -415,7 +415,7 @@
     "time": 655,
     "timeDay": 722,
     "timeWeek": 722,
-    "timeMonth": 718,
+    "timeMonth": 653,
     "timeYear": 655,
     "dailyMinutesDown": {}
   },
@@ -942,7 +942,7 @@
     "time": 230,
     "timeDay": 74,
     "timeWeek": 109,
-    "timeMonth": 268,
+    "timeMonth": 216,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -951,10 +951,10 @@
     "url": "https://hallernet-search.hidora.com/solr/public/select?q=*:*&facet=on&facet.field=type&rows=0&wt=json",
     "icon": "https://icons.duckduckgo.com/ip3/hallernet-search.hidora.com.ico",
     "slug": "rd-l-republique-des-lettres-solr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 205,
@@ -963,7 +963,8 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2026-10-10": 22
+      "2026-10-10": 22,
+      "2026-10-16": 1
     }
   },
   {
