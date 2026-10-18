@@ -1,7 +1,7 @@
 url: https://hallernet-search.hidora.com/solr/public/select?q=*:*&facet=on&facet.field=type&rows=0&wt=json
-status: up
-code: 200
-responseTime: 126
-lastUpdated: 2026-10-18T11:26:11.542Z
+status: down
+code: 401
+responseTime: 103
+lastUpdated: 2026-10-18T11:37:03.873Z
 startTime: 2026-09-18T07:16:02.254Z
 generator: Upptime <https://github.com/upptime/upptime>
