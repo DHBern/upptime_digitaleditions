@@ -197,7 +197,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: RdL – République des Lettres - Solr
-    url: https://hallernet-search.hidora.com/solr/public/select?q=*:*&facet=on&facet.field=type&rows=0&wt=json
+    url: https://search.republique-des-lettres.ch/solr/public/select?q=*:*&facet=on&facet.field=type&rows=0&wt=json
     type: globalping
     location: europe
     expectedStatusCodes:
